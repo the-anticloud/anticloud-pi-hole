@@ -1,0 +1,10 @@
+{
+  "project": "PI_HOLE",
+  "category": "CONSUMER_ELECTRONICS",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CONSUMER_ELECTRONICS\\PI_HOLE",
+  "status": "failed",
+  "reason": "unreadable BENCH.json: 'metrics'",
+  "files_count": null,
+  "lines_of_code": null,
+  "sha": null
+}
